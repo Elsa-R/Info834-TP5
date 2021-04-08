@@ -32,6 +32,9 @@ Pour le moment l'application de chat fonctionne et nous pouvons voir par l'inter
 Ce qu'il nous reste à faire :
 * Stocker l'ensemble des messages dans MongoDB
 * Utiliser le ReplicaSet pour permettre une meilleure tolérance aux pannes
+
+![image](https://user-images.githubusercontent.com/56952574/114060702-ee454c00-9895-11eb-9b5c-4fd004c81991.png)
+
 * Pouvoir afficher une conversation précédente entre deux utilisateurs
 * Sortir des requêtes pertinentes : utilisateur le plus sollicité, celui qui communique le plus, etc.
 
